@@ -17,7 +17,7 @@ Unigrid removes central points of failure and puts digital infrastructure in the
 
 </div>
 
-## 🛠️ What we're building
+## What we're building
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ Unigrid removes central points of failure and puts digital infrastructure in the
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/unigrid-project/janus-java">🖥️ Janus</a></h3>
+      <h3><a href="https://github.com/unigrid-project/janus-java">Janus</a></h3>
       The Unigrid Control Center: a desktop frontend to the Hedgehog and Unigrid networks.
       Installers for Linux, macOS and Windows.<br><br>
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -36,25 +36,25 @@ Unigrid removes central points of failure and puts digital infrastructure in the
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://unigrid-project.github.io/">📚 Documentation</a></h3>
+      <h3><a href="https://unigrid-project.github.io/">Documentation</a></h3>
       Guides and references for running nodes, building on the network and contributing.<br><br>
       <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/unigrid-project/website">🌐 Website</a></h3>
+      <h3><a href="https://github.com/unigrid-project/website">Website</a></h3>
       The main Unigrid website, open source like everything else we do.<br><br>
       <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
     </td>
   </tr>
 </table>
 
-## ✨ Principles
+## Principles
 
-- 🔗 **Decentralized at the core:** no central point of failure, so the service stays resilient and uninterrupted.
-- 🔒 **Private by design:** advanced protocols protect data and communications.
-- 🤝 **Open and community driven:** contributions and ideas from around the globe are welcome.
+- **Decentralized at the core:** no central point of failure, so the service stays resilient and uninterrupted.
+- **Private by design:** advanced protocols protect data and communications.
+- **Open and community driven:** contributions and ideas from around the globe are welcome.
 
-## 🚀 Get involved
+## Get involved
 
 Developer, tech enthusiast or just passionate about decentralization, there is a place for you.
 Browse the repositories, send a pull request, or [join the conversation on Discord](https://discord.gg/JDAYCJ9tEb).
