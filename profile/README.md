@@ -21,29 +21,22 @@ Unigrid removes central points of failure and puts digital infrastructure in the
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><img src="assets/hedgehog.png" alt="" height="56" align="absmiddle"> <a href="https://github.com/unigrid-project/hedgehog">Hedgehog</a></h3>
       A high-performance, QUIC-based, concurrent peer-to-peer treechain network built on Netty and Java NIO.
       The backbone of the next generation Unigrid platform.<br><br>
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><img src="assets/janus.png" alt="" height="56" align="absmiddle"> <a href="https://github.com/unigrid-project/janus-java">Janus</a></h3>
       The Unigrid Control Center: a desktop frontend to the Hedgehog and Unigrid networks.
       Installers for Linux, macOS and Windows.<br><br>
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><img src="assets/docs.png" alt="" height="56" align="absmiddle"> <a href="https://unigrid-project.github.io/">Documentation</a></h3>
       Guides and references for running nodes, building on the network and contributing.<br><br>
       <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white">
-    </td>
-    <td width="50%" valign="top">
-      <h3><img src="assets/website.png" alt="" height="56" align="absmiddle"> <a href="https://github.com/unigrid-project/website">Website</a></h3>
-      The main Unigrid website, open source like everything else we do.<br><br>
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
     </td>
   </tr>
 </table>
