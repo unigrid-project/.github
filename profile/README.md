@@ -1,25 +1,64 @@
-### About Unigrid
+<div align="center">
 
-**Unigrid: Decentralizing the Digital World**
+<img src="assets/banner.svg" alt="The Unigrid Foundation: Sharded Internet" width="100%">
 
-Unigrid is a groundbreaking project aimed at reshaping the digital landscape by creating a decentralized, secure, and efficient network. Our mission is to establish a robust infrastructure that not only enhances connectivity but also upholds the principles of privacy and open-source development.
+<a href="https://unigridfoundation.se/"><img alt="Website" src="https://img.shields.io/badge/Website-unigridfoundation.se-f2541f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://discord.gg/JDAYCJ9tEb"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://x.com/unigrid_fndtion"><img alt="X" src="https://img.shields.io/badge/X-@unigrid__fndtion-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://unigrid-project.github.io/"><img alt="Docs" src="https://img.shields.io/badge/Docs-Read%20more-0b1230?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 
-**Key Features:**
-- **Decentralization at Its Core:** Unigrid is designed to eliminate central points of failure, ensuring a resilient and uninterrupted service.
-- **Security and Privacy Focused:** We prioritize the security and privacy of users, implementing advanced protocols to protect data and communications.
-- **Community-Driven Development:** As an open-source project, Unigrid thrives on community involvement, welcoming contributions and innovations from around the globe.
+### The next natural step in the evolution of the Internet
 
-**Project Vision:**
-Our vision is to democratize access to digital resources, making them universally accessible and controlled by the community rather than centralized entities. We aim to build a network that fosters innovation, facilitates seamless communication, and supports a wide range of decentralized applications (dApps).
+A load balanced network that is completely anonymous and resistant to eavesdropping.
+Unigrid removes central points of failure and puts digital infrastructure in the hands of its community.
 
-**Get Involved:**
-Whether you're a developer, a tech enthusiast, or simply someone passionate about the decentralization movement, there's a place for you in the Unigrid community. Explore our repositories, contribute to our code, or join the conversation on Discord to help shape the future of the digital world.
+</div>
 
-**Stay Connected:**
-Follow our journey and stay updated with the latest developments:
-- [Unigrid Website](https://unigridfoundation.se/)
-- [Discord](https://discord.gg/JDAYCJ9tEb)
-- [X](https://x.com/unigrid_fndtion)
+## 🛠️ What we're building
 
-Together, let's build a decentralized network that empowers individuals and transforms the way we interact with the digital world!
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/hedgehog.png" alt="Hedgehog" height="60" align="right">
+      <h3><a href="https://github.com/unigrid-project/hedgehog">🦔 Hedgehog</a></h3>
+      A high-performance, QUIC-based, concurrent peer-to-peer treechain network built on Netty and Java NIO.
+      The backbone of the next generation Unigrid platform.<br><br>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/unigrid-project/janus-java">🖥️ Janus</a></h3>
+      The Unigrid Control Center: a desktop frontend to the Hedgehog and Unigrid networks.
+      Installers for Linux, macOS and Windows.<br><br>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://unigrid-project.github.io/">📚 Documentation</a></h3>
+      Guides and references for running nodes, building on the network and contributing.<br><br>
+      <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/unigrid-project/website">🌐 Website</a></h3>
+      The main Unigrid website, open source like everything else we do.<br><br>
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+    </td>
+  </tr>
+</table>
 
+## ✨ Principles
+
+- 🔗 **Decentralized at the core:** no central point of failure, so the service stays resilient and uninterrupted.
+- 🔒 **Private by design:** advanced protocols protect data and communications.
+- 🤝 **Open and community driven:** contributions and ideas from around the globe are welcome.
+
+## 🚀 Get involved
+
+Developer, tech enthusiast or just passionate about decentralization, there is a place for you.
+Browse the repositories, send a pull request, or [join the conversation on Discord](https://discord.gg/JDAYCJ9tEb).
+
+<div align="center">
+
+<sub>Together, let's build a decentralized network that empowers individuals and transforms the way we interact with the digital world.</sub>
+
+</div>
