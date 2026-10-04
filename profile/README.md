@@ -18,8 +18,8 @@ Whether you're a developer, a tech enthusiast, or simply someone passionate abou
 **Stay Connected:**
 Follow our journey and stay updated with the latest developments:
 - [Unigrid Website](https://unigridfoundation.se/)
-- [X](https://x.com/unigrid_fndtion)
 - [Discord](https://discord.gg/JDAYCJ9tEb)
+- [X](https://x.com/unigrid_fndtion)
 
 Together, let's build a decentralized network that empowers individuals and transforms the way we interact with the digital world!
 
