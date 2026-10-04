@@ -13,14 +13,13 @@ Unigrid is a groundbreaking project aimed at reshaping the digital landscape by 
 Our vision is to democratize access to digital resources, making them universally accessible and controlled by the community rather than centralized entities. We aim to build a network that fosters innovation, facilitates seamless communication, and supports a wide range of decentralized applications (dApps).
 
 **Get Involved:**
-Whether you're a developer, a tech enthusiast, or simply someone passionate about the decentralization movement, there's a place for you in the Unigrid community. Explore our repositories, contribute to our code, or join the conversation on our forums to help shape the future of the digital world.
+Whether you're a developer, a tech enthusiast, or simply someone passionate about the decentralization movement, there's a place for you in the Unigrid community. Explore our repositories, contribute to our code, or join the conversation on Discord to help shape the future of the digital world.
 
 **Stay Connected:**
 Follow our journey and stay updated with the latest developments:
 - [Unigrid Website](https://www.unigrid.org/)
-- [Community Forum](https://community.unigrid.org/)
-- [Twitter](https://twitter.com/unigridproject)
-- [Discord](https://discord.gg/unigrid)
+- [Twitter](https://x.com/unigrid_fndtion)
+- [Discord](https://discord.gg/JDAYCJ9tEb)
 
 Together, let's build a decentralized network that empowers individuals and transforms the way we interact with the digital world!
 
