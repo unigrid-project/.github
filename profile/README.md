@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="assets/unigrid-wide-nf.svg" alt="The Unigrid Foundation: Sharded Internet" width="100%">
+<p><img src="assets/unigrid-wide-nf.svg" alt="The Unigrid Foundation: Sharded Internet" width="100%"></p>
 
-<a href="https://unigridfoundation.se/"><img alt="Website" src="https://img.shields.io/badge/Website-unigridfoundation.se-f2541f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://discord.gg/JDAYCJ9tEb"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://x.com/unigrid_fndtion"><img alt="X" src="https://img.shields.io/badge/X-@unigrid__fndtion-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://unigrid-project.github.io/"><img alt="Docs" src="https://img.shields.io/badge/Docs-Read%20more-0b1230?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+<p>
+<a href="https://unigridfoundation.se/"><img alt="Website" src="https://img.shields.io/badge/Website-f2541f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://discord.gg/JDAYCJ9tEb"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://x.com/unigrid_fndtion"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://unigrid-project.github.io/"><img alt="Docs" src="https://img.shields.io/badge/Docs-2b3a67?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+</p>
 
 ### The next natural step in the evolution of the Internet
 
