@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="The Unigrid Foundation: Sharded Internet" width="100%">
+<img src="assets/unigrid-wide-nf.svg" alt="The Unigrid Foundation: Sharded Internet" width="100%">
 
 <a href="https://unigridfoundation.se/"><img alt="Website" src="https://img.shields.io/badge/Website-unigridfoundation.se-f2541f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://discord.gg/JDAYCJ9tEb"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
