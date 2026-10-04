@@ -5,6 +5,7 @@
 <p>
 <a href="https://unigridfoundation.se/"><img alt="Website" src="https://img.shields.io/badge/Website-f2541f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://discord.gg/JDAYCJ9tEb"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://t.me/unigrid"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://x.com/unigrid_fndtion"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://unigrid-project.github.io/"><img alt="Docs" src="https://img.shields.io/badge/Docs-2b3a67?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
