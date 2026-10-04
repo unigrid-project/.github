@@ -22,8 +22,7 @@ Unigrid removes central points of failure and puts digital infrastructure in the
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/hedgehog.png" alt="Hedgehog" height="60" align="right">
-      <h3><a href="https://github.com/unigrid-project/hedgehog">🦔 Hedgehog</a></h3>
+      <h3><img src="assets/hedgehog.png" alt="" height="56" align="absmiddle"> <a href="https://github.com/unigrid-project/hedgehog">Hedgehog</a></h3>
       A high-performance, QUIC-based, concurrent peer-to-peer treechain network built on Netty and Java NIO.
       The backbone of the next generation Unigrid platform.<br><br>
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
