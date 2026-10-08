@@ -50,7 +50,7 @@ Unigrid removes central points of failure and puts digital infrastructure in the
 ## Get involved
 
 Developer, tech enthusiast or just passionate about decentralization, there is a place for you.
-Browse the repositories, send a pull request, or [join the conversation on Discord](https://discord.gg/JDAYCJ9tEb).
+[Browse all active repositories](https://github.com/orgs/unigrid-project/repositories?q=archived%3Afalse), send a pull request, or [join the conversation on Discord](https://discord.gg/JDAYCJ9tEb).
 
 <div align="center">
 
